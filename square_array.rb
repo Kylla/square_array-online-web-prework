@@ -1,7 +1,7 @@
 def square_array(numbers)
   
   numbers = [1, 2, 3, 4, 5]
-  numbers.each {
+  numbers.each {|x| 
     
   new_numbers = [6, 7, 8, 9]
   
